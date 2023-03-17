@@ -18,3 +18,5 @@ jobs:
       with:
         humanitec-token: ${{ secrets.HUMANITEC_TOKEN }}
         organization: gabrielathumanitecgithub
+        humanitec-api: dev-api.humanitec.io
+        humanitec-registry: dev-registry.humanitec.io
